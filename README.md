@@ -23,7 +23,7 @@
 
 | Name            |           Rol            |                 Responsibilities                     |
 |-----------------|--------------------------|------------------------------------------------------|
-| Arushi Gulbhile | Product Lead & Presenter | Idea design, pitch, UI/UX guidance |
+| Team Member 1   | Product Lead & Presenter | Idea design, pitch, UI/UX guidance |
 | Team Member 2   | Frontend Dev             | React components, pages, visualizations |
 | Team Member 3   | Backend Dev              | FastAPI endpoints, data handling, integrations |
 | Team Member 4   | ML Engineer              | Cognitive Twin model, scheduling optimizer |
